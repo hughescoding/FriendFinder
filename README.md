@@ -16,6 +16,6 @@ Instructions:
 
 You will find a video demonstrating functionality here: (https://hughescoding.github.io/portfolio/friendfinder.html)
 
-be sure to checkout the other projects in my portfolio: (https://hughescoding.github.io/portfolio/portfolio.html)
+Be sure to checkout the other projects in my portfolio: (https://hughescoding.github.io/portfolio/portfolio.html)
 
 
