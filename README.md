@@ -1,6 +1,6 @@
 # Friend Finder - Node and Express Servers
 
-###Friend finder App
+## Friend Finder App
 
 This was a homework assignment from the UCF coding bootcamp. (https://bootcamp.ce.ucf.edu/coding/)
 
