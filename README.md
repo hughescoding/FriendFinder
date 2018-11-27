@@ -1,6 +1,25 @@
 # Friend Finder - Node and Express Servers
 
-### Overview
+##Friend finder App
+
+This was a homework assignment from the UCF coding bootcamp. (https://bootcamp.ce.ucf.edu/coding/)
+
+Instructions:
+
+1. Launch the app here: (https://hughesfriendfinder.herokuapp.com/) 
+2. Click on the go to survey button.
+3. Answer all the questions.
+4. Click the submit button.
+5. You will get a pop-up indicating the closest match to your answers.
+6. Close the popup.
+7. Click the API friends list link at the bottom of the page, note that your info and responses are now listed in the api. (https://hughesfriendfinder.herokuapp.com/api/friends)
+
+You will find a video demonstrating functionality here: (https://hughescoding.github.io/portfolio/friendfinder.html)
+
+be sure to checkout the other projects in my portfolio: (https://hughescoding.github.io/portfolio/portfolio.html)
+
+
+### Homework Assignment Instructions
 
 In this activity, you'll build a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. 
 
